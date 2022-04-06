@@ -623,7 +623,7 @@ section {
 .services .icon-box::before {
   content: "";
   position: absolute;
-  background: #e1f0fa;
+  background: #fdf1ba;
   right: -60px;
   top: -40px;
   width: 100px;
